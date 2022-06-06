@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sinai</title>
+    <title>Dr.Amrita</title>
     <link>http://localhost:4000</link>
     <description>Thoughts, Stories and Ideas</description>
-    <lastBuildDate>Sun, 05 Jun 2022 21:04:53 -0400</lastBuildDate>
-    <atom:link href="http://localhost:4000feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 05 Jun 2022 22:17:50 -0400</lastBuildDate>
+    <atom:link href="http://localhost:4000/Dr.AmritaVohrafeed.xml" rel="self" type="application/rss+xml"/>
 
     
       <item>
         <title>I am not alone...</title>
         <description>&lt;p&gt;&lt;!-- wp:image {&quot;id&quot;:89,&quot;sizeSlug&quot;:&quot;large&quot;} --&gt;&lt;/p&gt;
-&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;img src=&quot;/assets/2020/03/img_6200.jpg?w=1024&quot; alt=&quot;&quot; class=&quot;wp-image-89&quot; /&gt;&lt;/figure&gt;
+&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2020/03/img_6200.jpg?w=1024&quot; alt=&quot;&quot; class=&quot;wp-image-89&quot; /&gt;&lt;/figure&gt;
 &lt;p&gt;&lt;!-- /wp:image --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;!-- wp:paragraph {&quot;className&quot;:&quot;s3&quot;} --&gt;&lt;/p&gt;
 &lt;p class=&quot;s3&quot;&gt;‘Good Bye! I waved blissfully to my school friends with a twinkle in my eyes as I deboarded the bus. Humming away to the notes of ‘let it go…’, I skittled my way to the doorbell, tapping away at everything in sheer glee! Yippee, no exams, holidays begin. &lt;/p&gt;
@@ -47,7 +47,7 @@
 &lt;figure class=&quot;wp-block-gallery columns-1&quot;&gt;
 &lt;ul class=&quot;blocks-gallery-grid&quot;&gt;
 &lt;li class=&quot;blocks-gallery-item&quot;&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/2020/03/img_6199-1.jpg?w=1024&quot; data-id=&quot;92&quot; class=&quot;wp-image-92&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2020/03/img_6199-1.jpg?w=1024&quot; data-id=&quot;92&quot; class=&quot;wp-image-92&quot; /&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/figure&gt;
@@ -84,10 +84,10 @@
 &lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;!-- wp:cover {&quot;url&quot;:&quot;https:\/\/pindropsilencein.files.wordpress.com\/2020\/03\/img_6200.jpg&quot;,&quot;id&quot;:89} --&gt;&lt;/p&gt;
 &lt;div class=&quot;wp-block-cover has-background-dim&quot; style=&quot;background-image:url(&apos;https://pindropsilencein.files.wordpress.com/2020/03/img_6200.jpg&apos;);&quot;&gt;
-&lt;div class=&quot;wp-block-cover__inner-container&quot;&gt;&lt;!-- wp:paragraph {&quot;align&quot;:&quot;center&quot;,&quot;placeholder&quot;:&quot;Write title\u2026&quot;} --&gt;&lt;/p&gt;
+&lt;div class=&quot;wp-block-cover__inner-container&quot;&gt;&lt;!-- wp:paragraph {&quot;align&quot;:&quot;center&quot;,&quot;placeholder&quot;:&quot;Write title\u2026&quot;} --&gt;&amp;lt;/p&amp;gt;
 &lt;p class=&quot;has-text-align-center&quot;&gt;&lt;strong&gt;&lt;em&gt;I Am not Alone&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
 &lt;p&gt;&lt;!-- /wp:cover --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;!-- wp:paragraph {&quot;className&quot;:&quot;s3&quot;} --&gt;&lt;/p&gt;
 &lt;p class=&quot;s3&quot;&gt;I simply love it now, my virtual school. I wake up each day looking forward to the new challenges and experiences with my school mates and teachers. We laugh and play and share over the video calls. We learn, we dance, we chat and we exercise with the PT and Yoga teachers and we sing and engage in blissful dramatic improvisations.Yesterday, I played the dwarf from Snow White and today we are exploring characters from the fables. I have been reading some really interesting books and even listening to some. I have been recording and sharing videos with my teachers. It is so much fun. I am gaining more confidence in mathematics, as I have been solving those graded adaptive series of problems. The challenge increases each time I solve one. It’s like the levels in a video game. I am a confident busy girl. I don’t have to beg Mumma to play with me. I can play with my friends online. I set short-term goals with my teacher and strive to achieve these each day. I am at home, but I am no longer alone. &lt;/p&gt;
@@ -97,27 +97,28 @@
 &lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 29 Mar 2020 11:55:10 -0400</pubDate>
-        <link>http://localhost:4000/2020/03/29/i-am-not-alone/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/03/29/i-am-not-alone/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2020/03/29/i-am-not-alone/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2020/03/29/i-am-not-alone/</guid>
       </item>
     
       <item>
         <title>And we all fall down ...</title>
-        <description>&lt;blockquote&gt;And we all fall down ...&lt;/p&gt;
+        <description>&lt;blockquote&gt;And we all fall down ...&amp;lt;/p&amp;gt;
 &lt;p&gt;http://pindropsilence.in/2019/02/28/and-we-all-fall-down/&lt;br /&gt;
 — Read on &lt;a href=&quot;http://pindropsilence.in/2019/02/28/and-we-all-fall-down/&quot;&gt;pindropsilence.in/2019/02/28/and-we-all-fall-down/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 28 Feb 2019 15:22:18 -0500</pubDate>
-        <link>http://localhost:4000/2019/02/28/and-we-all-fall-down-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/02/28/and-we-all-fall-down-2/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2019/02/28/and-we-all-fall-down-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2019/02/28/and-we-all-fall-down-2/</guid>
       </item>
     
       <item>
         <title>And we all fall down ...</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2019/02/img_2761.jpg&quot; class=&quot;size-medium wp-image-82&quot; width=&quot;4976&quot; height=&quot;3935&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2019/02/img_2761.jpg&quot; class=&quot;size-medium wp-image-82&quot; width=&quot;4976&quot; height=&quot;3935&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Remember the ‘ring a ring of roses, pocket full of ...&apos; the jingle to which we fluttered about in circles of mirth. Ah those merry memories of childhood!&lt;/p&gt;
 &lt;p&gt;Now here we are exclaiming with a sigh, ‘My child doesn’t study&apos; &apos;My child is a difficult teen’ ‘My child doesn’t listen’ and the bafflement of being a parent continues. It’s quite an endeared torture! one that we want to have and don’t want to have in equal measure. It’s an absent presence in the household. While we barely have the time or strength to deal with anything in the aftermath of work pressure and other mundane stresses of living, we continue to sigh and suffer as anxious parents.&lt;/p&gt;
 &lt;p&gt;Just wondering now, was I a perfect child? Did I always show interest in studies? Did I always listen? Did I question authority in sheer defiance? Well as for me, I just somehow scraped through school. By the time I developed interest in any subject, I had already passed the stage of learning the basics. I gathered, I suppose, as I went along. Life and career eventually turned out equitable. At each step along the way there were hurdles, challenges and misgivings. They may have been excruciatingly painful while each lasted. Some became stepping stones and some gruesome recollections. When I look back, they made for some interesting sequences in the drama of my life. I have ample stories to tell. Ample to brag and ample skeletons hidden in the secret cupboard.&lt;/p&gt;
@@ -128,19 +129,19 @@
 &lt;p&gt;Don’t we all fall down... and rise again in the ring of roses?&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Feb 2019 15:04:29 -0500</pubDate>
-        <link>http://localhost:4000/2019/02/28/and-we-all-fall-down/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/02/28/and-we-all-fall-down/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2019/02/28/and-we-all-fall-down/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2019/02/28/and-we-all-fall-down/</guid>
       </item>
     
       <item>
         <title>EXAM Exam Examination...</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2018/07/img_9286.jpg&quot; class=&quot;alignnone wp-image-76 size-full&quot; height=&quot;750&quot; width=&quot;499&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/07/img_9286.jpg&quot; class=&quot;alignnone wp-image-76 size-full&quot; height=&quot;750&quot; width=&quot;499&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;We are a nation in love with examinations. Not exactly medical examination but school examinations. We have invented some medical requirements around it though, over the years. Exam fever, stress and anxiety disorders, suicide attempts are some of the side effects. These can affect children, as well as parents fighting for their rightful place in the convoluted social circuit.&lt;/p&gt;
 &lt;p&gt;Beware of the neighbour’s kids, the best friend’s kids and the entire range of in-law kids. They are some of the most potent opponents in the exam game. Life becomes hell if they beat us in the game. Motherhood’s success stands questioned and Mr. Guilt, woman’s worst foe and closest companion, takes over with immediate effect. Yes, I get it. We’ve got to be competitive. That’s survival. Isn’t it?&lt;/p&gt;
 &lt;p&gt;Thanks to Lord Macaulay&apos;s incredible gift to the Indian Education system, one of the many legacies of the British empire, we the post colonials, love white skin and prefer the familiar traps. Sheer familiarity makes the traps comforting. We resist change. The traditional has always worked for us after all. Who questions ritual? Who questions tradition? Those are just supposed to be followed blindly and passed on to generations...&lt;/p&gt;
 &lt;p&gt;So with good reason, our Id is merrily sacrificed for the insatiable satisfaction of our Ego. Ego guised nevertheless as SuperEgo, for everyone’s benefit (that policy applies on moral grounds!). I am sure Sigmund Freud would love this application of his theory.&lt;/p&gt;
 &lt;p&gt;I still remember walking back from the school bus stand that morning. It had rained. My 6 year old sensory organs couldn’t resist the temptation of jumping in the puddles, chasing the frogs, catching the earthworms and screeching at the discovery of various new creatures crawling the ground. The rustle of leaves, the soothing smell of mud soaked in rain water, the riot of colour all around, the washed bright green, the pink orange and red of flowers in bloom... Ah the exam was over.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/2018/07/img_9285-1.jpg&quot; class=&quot;alignnone size-full wp-image-79&quot; height=&quot;768&quot; width=&quot;1366&quot; /&gt;My world had an accentuated bliss, until I saw my mother. My anxious mother greeted me with her favourite question, “How was the exam?” Trying to avoid further probing, “good” I retorted. Since times immemorial, there has never been any stopping of mothers. I had to be interrogated question by question by question... listed in that wretched rolled question paper for the Hindi final exam. She had made me rote-learn every minute piece in the Hindi syllabus puzzle. I rambled on with applicable answers to all the questions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/07/img_9285-1.jpg&quot; class=&quot;alignnone size-full wp-image-79&quot; height=&quot;768&quot; width=&quot;1366&quot; /&gt;My world had an accentuated bliss, until I saw my mother. My anxious mother greeted me with her favourite question, “How was the exam?” Trying to avoid further probing, “good” I retorted. Since times immemorial, there has never been any stopping of mothers. I had to be interrogated question by question by question... listed in that wretched rolled question paper for the Hindi final exam. She had made me rote-learn every minute piece in the Hindi syllabus puzzle. I rambled on with applicable answers to all the questions.&lt;/p&gt;
 &lt;p&gt;Among other things, it included an essay on the Cow, our sacred animal (a bit beyond sacred these days). I had learnt it with spellings and punctuation, all intact. Yes, I had been able to blurt it out on the answer scripts too. Only some pieces shifted places to my peril! My kiddo brain, fried in the oil of limited time left for the last question, mixed up the order. So the first sentence I could pen to paper turned out to be as follows,&lt;em&gt; “Gae gobar deti hai.” &lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The rest of the sentences came back to me albeit in random order. My rote-learnt essay lost its organised structure. Holding a heavy head in her hands, “&lt;em&gt;ab Teacher bhi number gobar hi Degi,” &lt;/em&gt;reverted my desolate mother. It was so simple she said, “why couldn’t you remember, &lt;em&gt;Gae hamari mata hai...” &lt;/em&gt;She was clearly tortured to bits. She had worked really hard for my exam. I had let her down! For a few moments, the wonder of rain, the comfort of end to an ordeal, lost all its sheen. Despair took over, filling the air with guilt and self-doubt. Little did I understand the working of the human brain back then. My 6 year old sensibilities simply felt good for nothing.&lt;/p&gt;
 &lt;p&gt;Thankfully, I soon found my own ways to deal with the perennial exam struggle. Some things were taken for granted, some motherly and teacherly dramatics ignored, some anger absorbed, some rules adhered and some not. The creative curious being inside me found ways to explore learning on my own, while barely managing to sail through the school examinations. There were many allies in this beautiful journey. One of our favourite quotes became,&lt;/p&gt;
@@ -148,31 +149,31 @@
 &lt;p&gt;&lt;em&gt;humko kuch nahi aata hai.”&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jul 2018 07:08:29 -0400</pubDate>
-        <link>http://localhost:4000/2018/07/08/exam-exam-examination/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/08/exam-exam-examination/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/07/08/exam-exam-examination/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/07/08/exam-exam-examination/</guid>
       </item>
     
       <item>
         <title>Those Piercing Eyes and Sharp Tongues</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2018/07/img_0582.jpg&quot; class=&quot;alignnone wp-image-72 size-full&quot; height=&quot;350&quot; width=&quot;590&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/07/img_0582.jpg&quot; class=&quot;alignnone wp-image-72 size-full&quot; height=&quot;350&quot; width=&quot;590&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;The school bag, latched to my shoulders, weighed painfully on my back like a heavy sack of rice on a frail frame. Fixing the tiffin box into one of its pockets, my mother’s sharp tongue rambled on, “Don’t write too slowly...revise properly before you submit the sheet...avoid careless mistakes...don’t waste time sharpening those pencils...eat your tiffin... don’t keep pulling at that cardigan... no playing in the mud... you collect filth on your clothes everyday...stop pulling at your hair...” I rushed out to quench the auto-rickshaw drivers’ honks at our gate. My ears were used to the unstoppable music of my mother’s tongue. That cacophony of commandments didn’t really expect much of a response anyway. It made for some foreground music to our morning routines.&lt;/p&gt;
 &lt;p&gt;School days are filled with routines and commandments, I suppose. Adults reign over our childhood lives with an unquestioned authority to command immediate obedience, dictate terms, pass judgements, often adding to the melodrama with scathing sarcasm. Our lives are quite literally governed by their approvals and disapprovals! Oh that sounds almost like slavery in the name of parenting a child! On the flip side, as a mother today, I don’t know who is the slave here? Unlike the slave, the child doesn’t always obey. Unlike the master, the mother is perennially guilty of not doing enough well enough. In this osmotic relationship, the overwhelming ingredient is love, thoroughly pure unconditional love. It transforms everything and this slavery to the child or slavery to the parent metamorphoses into a labour of love. No matter how sharp, irritating and nonsensical, the mother’s chiding commandments still form the music notes of childhood.&lt;/p&gt;
 &lt;p&gt;There is a similar slavery to be lived at the School as well. Commandments, rules and routines prepare us, quite adequately perhaps, for a work-life filled to the brim with the same. The survival rat-race leaves little room for anything else.&lt;/p&gt;
 &lt;p&gt;Yet, what still thrives, peering through the chinks in the routine, is the sweet rhythm of life itself. The attachment and sensitivity of an emotional life within us. The eternal yearning soul within us. It provides the balance, the sedimentary mix that blurs all the sundry segments of laughter and tears... Well, in gross terms, the flesh and blood to the bare bones of existence.&lt;/p&gt;
 &lt;p&gt;Thus, we make friends, we connect and we feel. I have often wondered, why school friends last forever. There is a raw innocence to those connections and I think that lasts forever. We learnt it all together. Back in school, when piercing eyes of parents and teachers and a variety of sharp tongues lashed out at us, we faced the brunt together. Our unity was exemplary as partners in crime. We possessed the precious diamond of prankster trust. We knew none would ever spill the beans of our forays into the forbidden.&lt;/p&gt;
 &lt;p&gt;As a little girl in Grade IV, I knew I could bare my heart and soul to Nirjhar. She would never judge me. I could slap her lovingly and expect sheer laughter in response. We could spend hours on end hanging half-strung on the branches of guava trees in Allahabad, chattering away in competition with birds. She was special. Simple and carefree.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/2018/07/img_0585.jpg&quot; class=&quot;alignnone wp-image-73 size-full&quot; height=&quot;480&quot; width=&quot;720&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/07/img_0585.jpg&quot; class=&quot;alignnone wp-image-73 size-full&quot; height=&quot;480&quot; width=&quot;720&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;There were others too. Richa, the tall girl in our class, permanently cautious, never seemed to agree with our carefree attitude. Nirjhar and I were often subjected to lunch-break lectures from Richa. I am sure Sir Francis Bacon would have named them, ‘On consciousness’. We needed to be conscious of our surroundings, conscious of what others thought about us, of how we were perceived by the senior students, of how to fold our legs to sit like elegant girls, how to respond and walk gracefully... I am still indebted to Richa’s lessons in umpteen ways. Back then, she was a pain of a friend with perennially judgemental eyes. Nirjhar and I hardly ever shared our little secrets with her. We wondered why she couldn’t be simpler, while she seemed to take pride in her maturity. Richa was the favourite with our mothers. That only made it worse. I think I finally understand you now Richa! The friend I still miss though, is Nirjhar.&lt;/p&gt;
 &lt;p&gt;Mother to a brat of a teenager now, I am still blessed with the commandments from my own mother. My disheveled hair still remains a case in point. So does every aspect of my lifestyle. This morning the phone rang at 7:00 am. There she was saying morning walks are good, one should rise early and so what if it’s Sunday... 😇😅&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jul 2018 08:50:53 -0400</pubDate>
-        <link>http://localhost:4000/2018/07/01/those-piercing-eyes-and-sharp-tongues/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/01/those-piercing-eyes-and-sharp-tongues/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/07/01/those-piercing-eyes-and-sharp-tongues/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/07/01/those-piercing-eyes-and-sharp-tongues/</guid>
       </item>
     
       <item>
         <title>New girl on the block</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2018/06/4e601dee-458e-4421-ad79-5c29bc25a204.jpg&quot; class=&quot;alignnone size-full wp-image-68&quot; height=&quot;368&quot; width=&quot;900&quot; /&gt;Thousands of feet tapping to guided movement, discipline chants in teacher voices, involuntary chuckles and unstoppable laughter breaking through hushed jokes, random tunes playing on little tape recorders and trendy walk-men  (yes that’s what they were called! Who knew we were soon to have walk phones transforming our world?) and the continuous chatter, all of it made for a rather mysterious cacophony in the sunny school corridors.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/06/4e601dee-458e-4421-ad79-5c29bc25a204.jpg&quot; class=&quot;alignnone size-full wp-image-68&quot; height=&quot;368&quot; width=&quot;900&quot; /&gt;Thousands of feet tapping to guided movement, discipline chants in teacher voices, involuntary chuckles and unstoppable laughter breaking through hushed jokes, random tunes playing on little tape recorders and trendy walk-men  (yes that’s what they were called! Who knew we were soon to have walk phones transforming our world?) and the continuous chatter, all of it made for a rather mysterious cacophony in the sunny school corridors.&lt;/p&gt;
 &lt;p&gt;Yet, we were expected to magically listen to detailed nuances of music notations and synchronise taught steps to those. Yes we did. Perhaps all generations of children often manage the unthinkable during school days. The scorching hot wind gushing through our veins in the july summer afternoon only made for a comforting breeze cooling off the sweat. There were no fans in the corridors.&lt;/p&gt;
 &lt;p&gt;There was a lot more to be heard amidst the cacophony though. The tones of excitement and many muted disappointments. The latter were mostly ignored. Who had time to deal with the sulking souls amidst preparations for the annual concert? They were left to sort themselves out... Some could and learnt useful life lessons in the process. Some could not.&lt;/p&gt;
 &lt;p&gt;Well, the schools hardly ever seemed to have time for these. The schedule always seemed too tight and a bit too matter-of-fact to accommodate the emotional vagaries of the human mind. Each time my father got a new posting, I found myself amidst strangers in an unknown territory. I found myself in an unfamiliar city, in an unfamiliar house, an unfamiliar neighbourhood, an unfamiliar school trying to find my way in the hearts of strange unwelcoming classmates and unreachable teachers. Education somewhere meant trying to eek out the unknown from the unknown and making sense out of it. Now that’s quite a definition. Isn’t it? It was my constant rigorous training into the art of fitting in, the art of finding my tribe, perhaps finally belonging.&lt;/p&gt;
@@ -184,45 +185,45 @@
 &lt;p&gt;Teachers’ statements and decisions rule our lives in multilateral ways. Perhaps Mrs. Rosalind, our dance teacher in school, who always had a beautiful red rose bud sticking out of the tight bun on her nape, never realised her contribution to my classical training or my sense of belongingness in the school.&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Jun 2018 09:00:01 -0400</pubDate>
-        <link>http://localhost:4000/2018/06/24/new-girl-on-the-block/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/24/new-girl-on-the-block/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/06/24/new-girl-on-the-block/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/06/24/new-girl-on-the-block/</guid>
       </item>
     
       <item>
         <title>Travelogue School</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2018/06/img_0388.jpg&quot; class=&quot;alignnone size-full wp-image-61&quot; height=&quot;2407&quot; width=&quot;4290&quot; /&gt;The kids were all over the place, running amok in glee. Well, that’s what was apparent to fellow travellers staring at us, askance expressions on their faces! We teachers, smiled back at them, beaming with our all-knowing demeanours. We knew the method to the madness. We had created it. To us the madness indicated the levels of engagement, the depth of learning.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/06/img_0388.jpg&quot; class=&quot;alignnone size-full wp-image-61&quot; height=&quot;2407&quot; width=&quot;4290&quot; /&gt;The kids were all over the place, running amok in glee. Well, that’s what was apparent to fellow travellers staring at us, askance expressions on their faces! We teachers, smiled back at them, beaming with our all-knowing demeanours. We knew the method to the madness. We had created it. To us the madness indicated the levels of engagement, the depth of learning.&lt;/p&gt;
 &lt;p&gt;This was in Amber Fort, Jaipur. More than 100 primary and middle school students were working in explorer groups to unravel the secrets of history, geography, mathematics, architecture and politics ensconced in this epoch of a building. They had half an hour to run around, find information, places, justifications, rationales and possibilities to answer the set of thinking questions assigned to each group. Each little discovery was a little victory of team work. Within their teams, they distributed areas of work, defined timelines, planned circle-back discussions and brainstormed conclusions based on analyses of evidence collected. Can learning be better achieved in a 30 minute lesson?&lt;/p&gt;
 &lt;p&gt;And yet, all that is but a trickle in the stream of true learning that naturally gets integrated with travelling. The planning of a journey, backpacking for survival in unknown territory, often with unfamiliar companions, dealing with an array of deranged deep emotions, exploring, navigating, improvising to make it all work out better... it’s a simulation of life, a simulation of growing up and becoming. Each journey is a piece in the Bildungsroman.&lt;/p&gt;
 &lt;p&gt;To the educator, travelling with children is an opportunity to create a multi-level and thoroughly inclusive classroom. Toto Chan’s classrooms made out of converted railway coaches metaphorically capture the essence. The child’s eyes, wistfully peering out of the classroom window, stand for the innate desire to break the shingles and learn from the world out there. Birds frolicking to create their nest in the tree trunk outside the class window, are bound to be more interesting than black and white boards filled with semantic symbols. Charlotte Bronte&apos;s Jane Eyre too looks at the horizon from the castle’s daunting walls. Freedom lures and yet we have our innate fears of freedom to tackle as well! Human existence is quite a paradox. Yet, for better or worse, we are changing, evolving from Man to Superman, or should I say Superhuman (to satisfy my gender-sensitive self).&lt;/p&gt;
-&lt;p&gt;If I had my way as a teacher, schools would be a series of journeys, curriculum a travelogue...planned like lessons, but not to the ‘t’, leaving room for unpredictability, students&apos; ideas, creativity, inquiry. Virtual reality is making some things come alive but it’s still far from my dream Travelogue School. &lt;img src=&quot;/assets/2018/06/img_0295.jpg&quot; class=&quot;alignnone wp-image-60 size-full&quot; height=&quot;960&quot; width=&quot;1280&quot; /&gt;Nevertheless, some of my most memorable experiences as a teacher have been journeys with children. From learning King Fu at the Shaolin temple in China, wielding the veils with my skimpily clad girls (by some cultural standards) at the Grand mosque in Dubai, making castles on the beach to excavating deserts and brazing the heights of Himalayan ranges, these journeys have charted my life as a teacher. Perhaps, more apt terminology would be a learner, an explorer. Observing my spirited young globe trotters navigating their way through cultures, cuisines, arts, history and languages of human civilisations in varied geographies, I have often admired the merging of dissimilarities, the acceptance of the ‘Other’, an effortless sensitivity to global concerns emerging naturally. This is global citizenship moving beyond the here and now, to much larger paradigms.&lt;/p&gt;
+&lt;p&gt;If I had my way as a teacher, schools would be a series of journeys, curriculum a travelogue...planned like lessons, but not to the ‘t’, leaving room for unpredictability, students&apos; ideas, creativity, inquiry. Virtual reality is making some things come alive but it’s still far from my dream Travelogue School. &lt;img src=&quot;/Dr.AmritaVohra/assets/2018/06/img_0295.jpg&quot; class=&quot;alignnone wp-image-60 size-full&quot; height=&quot;960&quot; width=&quot;1280&quot; /&gt;Nevertheless, some of my most memorable experiences as a teacher have been journeys with children. From learning King Fu at the Shaolin temple in China, wielding the veils with my skimpily clad girls (by some cultural standards) at the Grand mosque in Dubai, making castles on the beach to excavating deserts and brazing the heights of Himalayan ranges, these journeys have charted my life as a teacher. Perhaps, more apt terminology would be a learner, an explorer. Observing my spirited young globe trotters navigating their way through cultures, cuisines, arts, history and languages of human civilisations in varied geographies, I have often admired the merging of dissimilarities, the acceptance of the ‘Other’, an effortless sensitivity to global concerns emerging naturally. This is global citizenship moving beyond the here and now, to much larger paradigms.&lt;/p&gt;
 &lt;p&gt;Perhaps nothing motivates a teacher more than the joyous sense of achievement on a child’s face, the unadulterated hunger for knowledge, the right questions... It’s our manna in the incessant journey of learning. The destination is for our students to reach. We take pride in them when they do, but our bliss is in the quest itself.&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Jun 2018 16:28:13 -0400</pubDate>
-        <link>http://localhost:4000/2018/06/17/travelogue-school/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/17/travelogue-school/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/06/17/travelogue-school/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/06/17/travelogue-school/</guid>
       </item>
     
       <item>
         <title>‘Beauty lies in the eyes of the beholder’</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2018/06/img_0237.jpg&quot; class=&quot;alignnone size-full wp-image-53&quot; height=&quot;768&quot; width=&quot;1024&quot; /&gt;On a usual July summer morning, flushed faces soaked in sweat and generous sunshine moved about their business like honey bees. Wielding colourful pictures and print material, little hands worked dextrously to design classroom soft boards. One small box of board pins, one large card sheet and two pairs of scissors were being shared between 50 girls. We had 20 minutes to complete the task. If video-tapped, it could have been used as an excellent example of seamless teamwork. I think every teacher has known the unbridled vibrance, the sheer energy, the collaborative enthusiasm of primary school children.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/06/img_0237.jpg&quot; class=&quot;alignnone size-full wp-image-53&quot; height=&quot;768&quot; width=&quot;1024&quot; /&gt;On a usual July summer morning, flushed faces soaked in sweat and generous sunshine moved about their business like honey bees. Wielding colourful pictures and print material, little hands worked dextrously to design classroom soft boards. One small box of board pins, one large card sheet and two pairs of scissors were being shared between 50 girls. We had 20 minutes to complete the task. If video-tapped, it could have been used as an excellent example of seamless teamwork. I think every teacher has known the unbridled vibrance, the sheer energy, the collaborative enthusiasm of primary school children.&lt;/p&gt;
 &lt;p&gt;This victory was crucial. A large chunk of our house points depended on it. We were a wild focused army of &lt;em&gt;Gorkhas&lt;/em&gt; fighting for a cause... the first cause known to our innocent human existence in Grade 4. We could have given our lives for those Red, Blue, Green and Yellow houses. Mocking slogans mercilessly filled the school air. ‘Yellow yellows, the dirty fellows’ , ‘Blue blues, mend your shoes’... Yes, I was in the Blue house. (Perhaps, that explains my pure love for Indigo to this day.)&lt;/p&gt;
 &lt;p&gt;The theme assigned by our class teacher was, ‘beauty lies in the eyes of the beholder.’ We had collected relevant materials for the soft boards with much ado. In those days bereft of the World Wide Web, it meant rummaging for ideas and meanings in the school library, sifting through piles of old magazines and newspapers, coaxing parents and neighbours and whoever you will into answering endless questions... One week of preparation and here we were. Books had convinced me and my fellow house mates that physical beauty was just one superficial aspect and the idiom meant that beauty could go beyond skin deep, that beauty was subjective, that the beholder’s perspective made all the difference.&lt;/p&gt;
 &lt;p&gt;Phew! it’s done, dot on the clock. Time to stand back and marvel at our creation, our very own rather wistful representation of beauty. We were proud of it and smirked at the other soft boards that were filled with pictures of models representing the standard conformist definition of beauty. Quite evidently, we were the unrivalled winners!&lt;/p&gt;
 &lt;p&gt;Nope. Our teacher did not think so! She was expecting good-looking boards and the models from latest advertisements of beauty products did it for her. A debate ensued, as a bunch of little girls suddenly turned into unstoppable crusaders of the feminist brigade. We certainly had a good library! Mrs. Srivastava perhaps cursed the moment she had chosen this theme and ended the discussion with a curt, ‘-5 to Blue house for questioning my decision. Yellow house has put the heading very clearly in bold letters. They are the winners and get 20 house points.’&lt;/p&gt;
 &lt;p&gt;Disappointment. Yes, and injustice. It was a regular feature of school days and contributed to many lifelong lessons...&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/2018/06/d9bb1de4-dfe5-45df-aac5-6c67bd37fbc3-1.jpg&quot; class=&quot;alignnone size-full wp-image-57&quot; height=&quot;689&quot; width=&quot;1024&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/06/d9bb1de4-dfe5-45df-aac5-6c67bd37fbc3-1.jpg&quot; class=&quot;alignnone size-full wp-image-57&quot; height=&quot;689&quot; width=&quot;1024&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;The Score card lies in the hands of the teacher. I learnt it that day. For every assignment thereafter, I asked as many questions as I was allowed. I had to gauge the teacher’s understanding and expectations from the task assigned. I gave them what they wanted. I learnt and read what I wanted and thus loved leisure reading and hated school work.&lt;/p&gt;
 &lt;p&gt;That’s exactly how the subverted class develops intuitive abilities. I read this theory years later in a book about the psychology of women.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Photo Credits- VA. Theme- against the tide.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Jun 2018 07:10:56 -0400</pubDate>
-        <link>http://localhost:4000/2018/06/10/beauty-lies-in-the-eyes-of-the-beholder/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/10/beauty-lies-in-the-eyes-of-the-beholder/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/06/10/beauty-lies-in-the-eyes-of-the-beholder/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/06/10/beauty-lies-in-the-eyes-of-the-beholder/</guid>
       </item>
     
       <item>
         <title>Newton’s Third Law of Motion..</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2018/06/a4514b89-c8c7-4ae7-a5cf-7b4d1f3ca93a-23954-00001485a607a51e.jpg&quot; class=&quot;alignnone size-full wp-image-49&quot; height=&quot;426&quot; width=&quot;345&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/06/a4514b89-c8c7-4ae7-a5cf-7b4d1f3ca93a-23954-00001485a607a51e.jpg&quot; class=&quot;alignnone size-full wp-image-49&quot; height=&quot;426&quot; width=&quot;345&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Mrs. Subramaniam, our rather boring History teacher, rambled on... her sing-song voice devoid of emotion filled the air with sleep molecules. The resultant yawning faces struggled to stifle the forbidden yawn. She was reading to us from the text book and we had to ‘Pay attention in Pindrop silence.’ Offending her meant standard 10 minutes of humiliation and two giant hands knocking your cheeks apart in two head-splitting thunderous thuds.&lt;/p&gt;
 &lt;p&gt;Looking sleepy was potentially dangerous. We had mastered the art of looking busy taking notes while she read on. There was nothing to note though, so we busied ourselves with the infinite Mathematics or Science homework, hidden half-baked under the History text book. My two buddies, Shivani Saxena and Anjan Roy, our class toppers since times immemorial, were busy completing Physics. Wow, Mrs. Subramaniam could make even convoluted Physics look interesting by inverse proportions.&lt;/p&gt;
 &lt;p&gt;“Every action has an equal and opposite reaction.” I whispered, reading from Anjan’s textbook. “What does that mean? If I hit you, you’ll hit me back, right?” I asked looking unbearably serious.&lt;/p&gt;
@@ -234,46 +235,46 @@
 &lt;p&gt;Newton’s law succeeded nevertheless. We still loved the teachers and they loved us back. We fondly remember and laugh at those memories now. School meant life’s grey lessons in so many ways. The secret of golden silence, the simplicity of acceptance, the transience of difficult moments and pain all mixed into the laws of motion and theories of relativity.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jun 2018 07:06:03 -0400</pubDate>
-        <link>http://localhost:4000/2018/06/03/newtons-third-law-of-motion/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/03/newtons-third-law-of-motion/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/06/03/newtons-third-law-of-motion/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/06/03/newtons-third-law-of-motion/</guid>
       </item>
     
       <item>
         <title>Bugs in my Pen</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2018/05/img_8919.jpg&quot; class=&quot;size-full wp-image-45&quot; height=&quot;4000&quot; width=&quot;6000&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/05/img_8919.jpg&quot; class=&quot;size-full wp-image-45&quot; height=&quot;4000&quot; width=&quot;6000&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Ink spots decorating white uniform shirts and some nimble fingers, smeared in blue, drawing caricatures on notebook pages and mindlessly playing tic tac toe...&lt;/p&gt;
 &lt;p&gt;Yes, school days bring back blue. Blue ink, blue skirt, blue jacket, blue sweater, blue tie, blue house,  blue sky, blue water and beautiful indigo blue saris of my favourite teacher, Mrs. Banerjee. Oh and how can I forget what she lovingly called the blue bugs in my pen.&lt;/p&gt;
 &lt;p&gt;“Are there some blue bugs in your pen? I mean what crawls around and smothers the sheet each time you write? I always admire your imagination, interesting ideas but what’s with your hand-writing girl? So much cutting, so many scribblings, it’s such a mess to read!” She would say, peering anxiously at my rather unkempt notebook while I helplessly witnessed the red blood-curdling bugs in her pen crawl and scratch all over it. The red and blue now looked completely messed up like a super hero!&lt;/p&gt;
 &lt;p&gt;The spider touch of her pen turned my notebook into a super hero! Trying to make sense of her corrective notes I would be lost in dreams. Red and blue Spider man making my wild spirit fly out of the classroom into the freak universe of imagination. These journeys of the mind’s eye had vivid tales weaved into them, featuring an elaborate range of characters. Tom and Jerry, Super Man, Napoleon, Nancy Drew, Ashoka the Great, Akbar the Great, Sherlock Holmes, Hitler and Alcott’s Meg, Jo, Beth and Amy all came together scheming their way into convoluted plot structures. Some gali cricket featured too. The anorexic doll of our times, Barbie, usually played the vamp! I so thoroughly disliked her. Her bubble bath set featured definitely. It was one toy I had always pined for as a little girl.&lt;/p&gt;
 &lt;p&gt;The dramatic climax was often cut short by some teacher’s shrill voice, nudging me back into the classroom. “Put away your English work Amrita. It’s the Mathematics period.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/2018/05/621298d3-eecd-4905-af43-b658f03f4392-17833-00000f163f44fc0f.jpg&quot; class=&quot;wp-image-46 size-full&quot; height=&quot;384&quot; width=&quot;384&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/05/621298d3-eecd-4905-af43-b658f03f4392-17833-00000f163f44fc0f.jpg&quot; class=&quot;wp-image-46 size-full&quot; height=&quot;384&quot; width=&quot;384&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Well, Mrs. Banerjee was responsible for most of those characters and plots. She made them come alive in the History and English lessons. She taught me how to browse through library books making me fall in love with that space. She taught me the habit of sleeping with books and a dictionary under my pillow. I still do.&lt;/p&gt;
 &lt;p&gt;The red and blue pages always had a valuable remark at the end. Sometimes it would tell me to begin each line exactly below the previous one. Sometimes it would tell me to use ‘their’ and ‘there’ correctly. Sometimes it would tell me to frame the letters ‘b’ and ‘f’ more legibly. Sometimes she would point to the overwhelming use of conjunctions and so on. ‘Avoid those giants of letters. Let me see the Lilliputians in your notebook,’ said one of her remarks. Perhaps even Jonathan Swift couldn’t have imagined Lilliputians of Gulliver’s Travels as custodians of hand-writing!&lt;/p&gt;
 &lt;p&gt;The red and blue notebook super heroes created by my favourite teacher gave me a legible hand-writing, my love for reading, and also the bugs infested in my pen. I could barely ever use organisation ideas for my writing pieces though she tried very hard. I still mostly can’t. My pen seems to be on a trip of its own. I can sense the bugs as they take over each time I write...&lt;/p&gt;
 &lt;p&gt;One of the writing assignments Mrs. Banerjee gave us was to write a story ending with ‘...and the last I saw her was a hand waving out of the carriage window.’&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 May 2018 10:29:57 -0400</pubDate>
-        <link>http://localhost:4000/2018/05/27/bugs-in-my-pen/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/27/bugs-in-my-pen/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/05/27/bugs-in-my-pen/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/05/27/bugs-in-my-pen/</guid>
       </item>
     
       <item>
         <title>The Wren and Martin days...</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/2018/05/img_0080.jpg&quot; class=&quot;alignnone wp-image-41 size-full&quot; height=&quot;890&quot; alt=&quot;IMG_0080&quot; width=&quot;1063&quot; /&gt;Bright tints of yellow and the succulent sweet tanginess melting into my mouth... Oh the mangoes! They meant the summer, they meant the summer holidays.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/05/img_0080.jpg&quot; class=&quot;alignnone wp-image-41 size-full&quot; height=&quot;890&quot; alt=&quot;IMG_0080&quot; width=&quot;1063&quot; /&gt;Bright tints of yellow and the succulent sweet tanginess melting into my mouth... Oh the mangoes! They meant the summer, they meant the summer holidays.&lt;/p&gt;
 &lt;p&gt;Enjoying mangoes at the banks of the river, jumping, splashing, swinging, singing and playing in the flowing waters until our bodies ached and fingers turned into dry almonds... that’s how summer holiday mornings began at my grandparents’ place. No one seemed to worry about the toxic pollutants, the brisk flow of the stream, the chilling cold water, the endless potential risk factors. The muddy waters were sacred. The river loved us. Wrapping us each day into its motherly protective fold it let us regale in sheer thrill. We loved her back. Flowing from the mountains, it was majestic and pure. It was our very own, non-virtual Avenger!&lt;/p&gt;
 &lt;p&gt;Summer holidays did not mean all denouncement of the academic routine though. Afternoons saw my brother and I sitting around dining tables with Wren and Martin, twitching our fingers and pencils. ‘You have to finish at least 10 pages,&apos; my mother would repeat as we tried wriggling out of it with some passionately profound excuses. She did not understand English, but she had her own set of unquestionable formulae. Wren and Martin was one of them. It was our completely trusted teacher of English. Books changed with the syllabus for all other subjects as we moved across year groups, but Wren and Martin continued as our haunting mistress right through school.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/2018/05/img_0082.jpg&quot; class=&quot;alignnone size-full wp-image-42&quot; height=&quot;1242&quot; alt=&quot;IMG_0082&quot; width=&quot;938&quot; /&gt;There was one more formula. All stories in the English readers had to be read and re-read and re-read until they got ‘chewed and digested’. That was my mother’s way of teaching us. She couldn’t explain if we had doubts. She just insisted, ‘Read it again until it’s clear.’ Her formula was consistent. ‘Read it at least seven times. You will understand. Check the dictionary and check Wren and Martin if you still find it tough. Just read and you will understand,’ She would say. Her hands busy sifting the pressure cooker popping away with fresh popcorn. Their delicious butter-salt aroma harking us to complete our reading and writing tasks. My mother’s ideas sounded like madness back then and she wouldn’t budge. Nevertheless, something magical worked and by the fourth reading or so we actually did understand! The rest we faked to her satisfaction.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Dr.AmritaVohra/assets/2018/05/img_0082.jpg&quot; class=&quot;alignnone size-full wp-image-42&quot; height=&quot;1242&quot; alt=&quot;IMG_0082&quot; width=&quot;938&quot; /&gt;There was one more formula. All stories in the English readers had to be read and re-read and re-read until they got ‘chewed and digested’. That was my mother’s way of teaching us. She couldn’t explain if we had doubts. She just insisted, ‘Read it again until it’s clear.’ Her formula was consistent. ‘Read it at least seven times. You will understand. Check the dictionary and check Wren and Martin if you still find it tough. Just read and you will understand,’ She would say. Her hands busy sifting the pressure cooker popping away with fresh popcorn. Their delicious butter-salt aroma harking us to complete our reading and writing tasks. My mother’s ideas sounded like madness back then and she wouldn’t budge. Nevertheless, something magical worked and by the fourth reading or so we actually did understand! The rest we faked to her satisfaction.&lt;/p&gt;
 &lt;p&gt;Now, as a teacher of English when I look back, I can see ‘the method in the madness.’ We self-learnt, explored the tools at hand, applied our minds, collaborated with each other, often agreeing and disagreeing to reach a common understanding. We were peer-learning too and checking our own work, repeating draft after draft until we got there.&lt;/p&gt;
 &lt;p&gt;Today, while sifting through some old books, I chanced upon a tattered copy of Wren and Martin almost falling apart. Oh the smell of vintage yellow pages... It had a name sticker with my brother’s name and Elle the elephant, holding a pink flower in her blue trunk, peered through it. This was his favorite sticker. No wonder he chose to put it on Wren and Martin. Thanks Elle for preserving this glorious teacher of English for us.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 May 2018 08:18:55 -0400</pubDate>
-        <link>http://localhost:4000/2018/05/20/the-wren-and-martin-days/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/20/the-wren-and-martin-days/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/05/20/the-wren-and-martin-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/05/20/the-wren-and-martin-days/</guid>
       </item>
     
       <item>
         <title>Where are the swings?</title>
-        <description>&lt;p&gt;&lt;img class=&quot;alignnone wp-image-30 size-full&quot; src=&quot;/assets/2018/05/pexels-photo-1027621.jpeg&quot; alt=&quot;pexels-photo-1027621.jpeg&quot; width=&quot;1880&quot; height=&quot;1075&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img class=&quot;alignnone wp-image-30 size-full&quot; src=&quot;/Dr.AmritaVohra/assets/2018/05/pexels-photo-1027621.jpeg&quot; alt=&quot;pexels-photo-1027621.jpeg&quot; width=&quot;1880&quot; height=&quot;1075&quot; /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:justify;&quot;&gt;Dressed neatly, my hair tied stiff in a ponytail, I walked in pride holding my father’s hand. My mother had taken special care preparing me for this morning. I knew I was looking my best. I just had to answer all questions smartly and stay confident through some interviews. Oh, my parents! They had said those words at least a hundred times. Don’t worry, Mummy and Papa, I am prepared...&lt;/p&gt;
 &lt;p style=&quot;text-align:justify;&quot;&gt;My father had been here and to some other schools as well. It was a transfer and we had moved into this city called Allahabad. While we strode into the gates of St. Mary’s Convent, my eyes peered around looking for swings. It had to be the swings that made any school worth the while? That was the place to be in a school. Wasn’t it. That’s where we played and laughed and ran around unheeded in sheer bliss. My previous school had some trees around the swings too. Climbing them was the biggest attraction of all. So was stoning the succulent tamarinds and chewing on them with one eye barely open or eating the guavas perched like birds on the branches. We were the free birds here. This was the flight into freedom...&lt;/p&gt;
 &lt;p style=&quot;text-align:justify;&quot;&gt;Do they have the trees here? This campus seems to go on and on but alas! Oh where are the slides and the swings? I am yet to see them perhaps. They may be further up. The trees are huge. Would I be able to climb this one? One would need a different strategy perhaps...&lt;/p&gt;
@@ -282,22 +283,84 @@
 &lt;p style=&quot;text-align:justify;&quot;&gt;My journey in my alma mater began!&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 May 2018 05:31:55 -0400</pubDate>
-        <link>http://localhost:4000/2018/05/13/where-are-the-swings/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/13/where-are-the-swings/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/05/13/where-are-the-swings/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/05/13/where-are-the-swings/</guid>
       </item>
     
       <item>
-        <title>Pindrop Silence!!</title>
-        <description>&lt;p&gt;&lt;img class=&quot;size-full wp-image-23&quot; src=&quot;/assets/2018/05/5316751840_af77d916db_o-2.jpg&quot; width=&quot;495&quot; height=&quot;720&quot; /&gt;&lt;/p&gt;
+        <title>Pindrop Silence</title>
+        <description>
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: Pindrop Silence!!
+date: 2018-05-06 04:25:40.000000000 -04:00
+type: post
+parent_id: ‘0’
+published: true
+password: ‘’
+status: publish
+categories: []
+tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;anxiety&lt;/li&gt;
+  &lt;li&gt;children&lt;/li&gt;
+  &lt;li&gt;classroom&lt;/li&gt;
+  &lt;li&gt;classroom management&lt;/li&gt;
+  &lt;li&gt;collaborative learning&lt;/li&gt;
+  &lt;li&gt;constructive feedback&lt;/li&gt;
+  &lt;li&gt;critical thinking&lt;/li&gt;
+  &lt;li&gt;daydreaming&lt;/li&gt;
+  &lt;li&gt;discipline&lt;/li&gt;
+  &lt;li&gt;education&lt;/li&gt;
+  &lt;li&gt;exams&lt;/li&gt;
+  &lt;li&gt;experiential learning&lt;/li&gt;
+  &lt;li&gt;featured&lt;/li&gt;
+  &lt;li&gt;Gurgaon&lt;/li&gt;
+  &lt;li&gt;homework&lt;/li&gt;
+  &lt;li&gt;india&lt;/li&gt;
+  &lt;li&gt;innovation&lt;/li&gt;
+  &lt;li&gt;learning&lt;/li&gt;
+  &lt;li&gt;marks&lt;/li&gt;
+  &lt;li&gt;mother&lt;/li&gt;
+  &lt;li&gt;notorious&lt;/li&gt;
+  &lt;li&gt;parent&lt;/li&gt;
+  &lt;li&gt;parent teacher meeting&lt;/li&gt;
+  &lt;li&gt;parenting&lt;/li&gt;
+  &lt;li&gt;praise and punishment&lt;/li&gt;
+  &lt;li&gt;pressure&lt;/li&gt;
+  &lt;li&gt;principal&lt;/li&gt;
+  &lt;li&gt;problem solving&lt;/li&gt;
+  &lt;li&gt;punishment&lt;/li&gt;
+  &lt;li&gt;school&lt;/li&gt;
+  &lt;li&gt;school bell&lt;/li&gt;
+  &lt;li&gt;student&lt;/li&gt;
+  &lt;li&gt;studies&lt;/li&gt;
+  &lt;li&gt;talkative&lt;/li&gt;
+  &lt;li&gt;teacher
+meta:
+_rest_api_published: ‘1’
+timeline_notification: ‘1525580744’
+_rest_api_client_id: ‘11’
+_publicize_job_id: ‘17533904012’
+author:
+login: dramritavohra
+email: dramritavohra@gmail.com
+display_name: Dr Amrita
+first_name: Dr
+last_name: Amrita
+permalink: “/2018/05/06/pindrop-silence/”
+—&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img class=&quot;size-full wp-image-23&quot; src=&quot;/Dr.AmritaVohra/assets/2018/05/5316751840_af77d916db_o-2.jpg&quot; width=&quot;495&quot; height=&quot;720&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&apos;Pindrop silence,’ she said. Her tone firm, her manner sharp, her piercing eyes peering down at us above a drooping pair of spectacles. She wanted the assignment finished and submitted in the next 5 minutes. No discussion was required, neither thinking. We just had to reproduce facts from the boring history textbook. My fingers played mindless games with my pen as it twirled and twisted, rolled back and forth in classic gymnastic movements. I was trying to remember the number of pillars in the temple architecture of this lost clan that existed far back in time. Was I ever going to visit this place? Meet these people? Would I be using the same number of pillars if I were to design a building some day? Who knows, I may be an architect like my father... issshhh the bell!&lt;/p&gt;
 &lt;p&gt;Our school bell screeches me back into the present classroom dealing with past facts while I dream of the future... phew! now that’s convoluted. Isn’t it? I can’t remember half the things here and now this assignment has to sit on the teacher’s desk rather than mine. She would put another nasty red mark on this one too. I just wish my father doesn’t attend this Parents’ meeting to be humiliated for my follies yet again.&lt;/p&gt;
 &lt;p&gt;Oh no! and here comes Mrs. Dandapani, our Mathematics teacher. She loves to paint my notebooks red and yes I already know I am terrible at this. You don’t have to remind me every single day! ‘ Mathematics needs practice.’ Oh yes, I practice and I work very hard trying to do the same sums over and again. I seem to get nowhere though. She too wants some more equations sorted from this chapter on Algebraic Equations. ‘Pindrop silence,’ there she goes again...&lt;/p&gt;
 &lt;p&gt;Those were some ramblings from my school days. I happened to be an ‘out-standing student’ usually found standing punished outside the class or practising for school co-curricular events simply to skip lessons of teachers I didn’t like. Talkative me couldn’t sit there in silence for 8 long hours for sure. Notorious me spent that energy finding ways to disrupt the lack-lustre school routine. I found positive as well as negative ways out. From Leadership Training service, sports, dance and dramatics to leaving a burning cigarette in the Biology lab skeleton’s mouth, school days made for interesting tales throughout.&lt;/p&gt;
 &lt;p&gt;Here I am now, on the other side of the fence. Ooops I am a mother, a teacher! And well, I seem to remember zilch out of whatever I crammed to get those good marks at school. Yes, I managed to score those. Wasn’t it supposed to prepare me for life? Why do I feel so ill-prepared then for everything?&lt;/p&gt;
 </description>
-        <pubDate>Sun, 06 May 2018 04:25:40 -0400</pubDate>
-        <link>http://localhost:4000/2018/05/06/pindrop-silence/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/06/pindrop-silence/</guid>
+        <pubDate>Sun, 06 May 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/Dr.AmritaVohra/2018/05/06/pindrop-silence/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2018/05/06/pindrop-silence/</guid>
       </item>
     
       <item>
@@ -332,8 +395,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Dec 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2017/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2017/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
       </item>
     
       <item>
@@ -368,8 +431,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Dec 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2017/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2017/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
       </item>
     
       <item>
@@ -404,8 +467,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/12/10/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/10/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2017/12/10/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2017/12/10/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
       </item>
     
       <item>
@@ -440,8 +503,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Dec 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2017/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2017/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
       </item>
     
       <item>
@@ -476,8 +539,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/12/01/every-day-which-is-almost-too-much-for-sensitive/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/01/every-day-which-is-almost-too-much-for-sensitive/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2017/12/01/every-day-which-is-almost-too-much-for-sensitive/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2017/12/01/every-day-which-is-almost-too-much-for-sensitive/</guid>
       </item>
     
       <item>
@@ -512,8 +575,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</guid>
       </item>
     
       <item>
@@ -546,8 +609,8 @@ lacinia in lorem.&lt;/li&gt;
 
 </description>
         <pubDate>Mon, 25 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/04/25/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/04/25/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2016/04/25/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2016/04/25/welcome-to-jekyll/</guid>
       </item>
     
       <item>
@@ -582,8 +645,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</guid>
       </item>
     
       <item>
@@ -618,8 +681,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</guid>
       </item>
     
       <item>
@@ -654,8 +717,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</guid>
       </item>
     
       <item>
@@ -690,8 +753,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
       </item>
     
       <item>
@@ -726,8 +789,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/22/access-main-program-access-main-security/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/access-main-program-access-main-security/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/22/access-main-program-access-main-security/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/22/access-main-program-access-main-security/</guid>
       </item>
     
       <item>
@@ -762,8 +825,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
       </item>
     
       <item>
@@ -841,8 +904,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</guid>
       </item>
     
       <item>
@@ -877,8 +940,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</guid>
       </item>
     
       <item>
@@ -913,8 +976,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</guid>
       </item>
     
       <item>
@@ -943,8 +1006,8 @@ lacinia in lorem.&lt;/li&gt;
 
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</guid>
       </item>
     
       <item>
@@ -973,8 +1036,8 @@ lacinia in lorem.&lt;/li&gt;
 
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</guid>
       </item>
     
       <item>
@@ -1009,8 +1072,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
       </item>
     
       <item>
@@ -1045,8 +1108,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</guid>
       </item>
     
       <item>
@@ -1081,8 +1144,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
       </item>
     
       <item>
@@ -1117,8 +1180,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
       </item>
     
       <item>
@@ -1153,8 +1216,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
       </item>
     
       <item>
@@ -1189,8 +1252,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
+        <link>http://localhost:4000/Dr.AmritaVohra/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dr.AmritaVohra/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
       </item>
     
 
@@ -1200,7 +1263,7 @@ lacinia in lorem.&lt;/li&gt;
           <item>
             <title>Blog</title>
             <description></description>
-            <link>http://localhost:4000/blog/</link>
+            <link>http://localhost:4000/Dr.AmritaVohra/blog/</link>
           </item>
         
       
@@ -1214,7 +1277,7 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Here I am now, on the other side of the fence. Ooops I am a mother, a teacher! And well, I seem to remember zilch out of whatever I crammed to get those good marks at school. Yes, I managed to score those. Wasn’t it supposed to prepare me for life? Why do I feel so ill-prepared then for everything?&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/home/</link>
+            <link>http://localhost:4000/Dr.AmritaVohra/home/</link>
           </item>
         
       
@@ -1231,7 +1294,7 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Apart from academic achievements, Dr Vohra is also an accomplished &lt;strong&gt;Bharatnatyam dancer&lt;/strong&gt; trained at Prayag Sangeet Samiti, Allahabad. She has been a junior state champion for Badminton from YMCA, Allahabad. She has also been closely associated with &lt;strong&gt;Theatre &lt;/strong&gt;and has been a guest faculty for Literature and Dramatic Art at Bhartendu Natak Academy (BNA). She has conducted various Theatre Workshops, scripted and directed productions with school and college students.&lt;/p&gt;
 &lt;p style=&quot;text-align:justify;&quot;&gt;In her present profile as Head – Professional Development and Quality Assurance with GEMS Education, India, she is leading on Teacher Education and Quality Assurance. She has helped the organization set up new school projects, provided services to managed schools associated with GEMS, developed and re-organized the Policy manuals for GEMS India K-12 schools and provided continuous mentoring and support to School Leadership teams and most importantly teachers. Being a firm believer in Joint practice development and sharing of good practices, she has set up &lt;strong&gt;Professional Learning Communities of teachers in GEMS India both offline and online&lt;/strong&gt;. She is also a &lt;strong&gt;certified Program Leader for Cambridge Professional Development Qualifications (PDQs)&lt;/strong&gt; having designed one year Diploma programmes for in-service teachers and School Leaders. She has also conducted workshops for teachers in small town and village schools of Rajasthan, Uttar Pradesh as well as the DIET Principals in the Southern state of Kerala. During her tenure with GEMS, she has contributed &lt;strong&gt;as Acting Principal for GEMS schools at Gurgaon, Bhopal and Karnal to salvage crisis situations&lt;/strong&gt;. She is a member of the &lt;strong&gt;GEMS Global Education team &lt;/strong&gt;lead by Mr. Tony Little and is a regular contributor to the GEMS India blog.&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/about/</link>
+            <link>http://localhost:4000/Dr.AmritaVohra/about/</link>
           </item>
         
       
@@ -1250,7 +1313,7 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/about.html</link>
+            <link>http://localhost:4000/Dr.AmritaVohra/about.html</link>
           </item>
         
       
@@ -1498,7 +1561,7 @@ pre {
 &lt;button class=&apos;c-btn c-btn--active c-btn--small&apos;&gt;Button&lt;/button&gt;
 &lt;button class=&apos;c-btn c-btn--active c-btn--full&apos;&gt;Button&lt;/button&gt;
 {% endhighlight %}</description>
-            <link>http://localhost:4000/style-guide.html</link>
+            <link>http://localhost:4000/Dr.AmritaVohra/style-guide.html</link>
           </item>
         
       
