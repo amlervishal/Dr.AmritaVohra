@@ -12,7 +12,7 @@ theme_version: 1.0.2
 title:              Pin Drop Silence
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas
-baseurl:            '/Dr.AmritaVohra' # The subpath of your site, e.g. /blog
+baseurl:            '/pindropsilence' # The subpath of your site, e.g. /blog
 url:                'https://amlervishal.github.io' # The base hostname & protocol for your site
 twitter:            https://twitter.com/aspirethemes
 facebook:           https://www.facebook.com/aspirethemes
