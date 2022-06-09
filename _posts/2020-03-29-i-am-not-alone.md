@@ -3,7 +3,7 @@ layout: post
 title: I am not Alone
 author: Dr. Amrita Vohra
 tags: [covid-19 anxiety]
-image: '/images/posts/covid-03.jpg'
+image: '/images/posts/Covid-03.jpg'
 ---
 
 Good Bye! I waved blissfully to my school friends with a twinkle in my eyes as I deboarded the bus. Humming away to the notes of ‘let it go…’, I skittled my way to the doorbell, tapping away at everything in sheer glee! Yippee, no exams, holidays begin. 
