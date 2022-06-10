@@ -16,7 +16,7 @@ So with good reason, our Id is merrily sacrificed for the insatiable satisfactio
 
 I still remember walking back from the school bus stand that morning. It had rained. My 6 year old sensory organs couldn’t resist the temptation of jumping in the puddles, chasing the frogs, catching the earthworms and screeching at the discovery of various new creatures crawling the ground. The rustle of leaves, the soothing smell of mud soaked in rain water, the riot of colour all around, the washed bright green, the pink orange and red of flowers in bloom... Ah the exam was over.
 
-[Dr.Amrita](https://i.imgur.com/9JGqMiU.jpg)
+![Dr.Amrita](https://i.imgur.com/9JGqMiU.jpg)
 
 My world had an accentuated bliss, until I saw my mother. My anxious mother greeted me with her favourite question, “How was the exam?” Trying to avoid further probing, “good” I retorted. Since times immemorial, there has never been any stopping of mothers. I had to be interrogated question by question by question... listed in that wretched rolled question paper for the Hindi final exam. She had made me rote-learn every minute piece in the Hindi syllabus puzzle. I rambled on with applicable answers to all the questions.
 
