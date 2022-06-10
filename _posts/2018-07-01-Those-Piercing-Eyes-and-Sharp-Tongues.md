@@ -1,0 +1,28 @@
+---
+layout: post
+title: Those Piercing Eyes and Sharp Tongues
+author: Dr. Amrita Vohra
+tags: [Blog-post]
+image: '/images/posts/005.jpg'
+---
+
+The school bag, latched to my shoulders, weighed painfully on my back like a heavy sack of rice on a frail frame. Fixing the tiffin box into one of its pockets, my mother’s sharp tongue rambled on, “Don’t write too slowly...revise properly before you submit the sheet...avoid careless mistakes...don’t waste time sharpening those pencils...eat your tiffin... don’t keep pulling at that cardigan... no playing in the mud... you collect filth on your clothes everyday...stop pulling at your hair...” I rushed out to quench the auto-rickshaw drivers’ honks at our gate. My ears were used to the unstoppable music of my mother’s tongue. That cacophony of commandments didn’t really expect much of a response anyway. It made for some foreground music to our morning routines.
+
+School days are filled with routines and commandments, I suppose. Adults reign over our childhood lives with an unquestioned authority to command immediate obedience, dictate terms, pass judgements, often adding to the melodrama with scathing sarcasm. Our lives are quite literally governed by their approvals and disapprovals! Oh that sounds almost like slavery in the name of parenting a child! On the flip side, as a mother today, I don’t know who is the slave here? Unlike the slave, the child doesn’t always obey. Unlike the master, the mother is perennially guilty of not doing enough well enough. In this osmotic relationship, the overwhelming ingredient is love, thoroughly pure unconditional love. It transforms everything and this slavery to the child or slavery to the parent metamorphoses into a labour of love. No matter how sharp, irritating and nonsensical, the mother’s chiding commandments still form the music notes of childhood.
+
+There is a similar slavery to be lived at the School as well. Commandments, rules and routines prepare us, quite adequately perhaps, for a work-life filled to the brim with the same. The survival rat-race leaves little room for anything else.
+
+Yet, what still thrives, peering through the chinks in the routine, is the sweet rhythm of life itself. The attachment and sensitivity of an emotional life within us. The eternal yearning soul within us. It provides the balance, the sedimentary mix that blurs all the sundry segments of laughter and tears... Well, in gross terms, the flesh and blood to the bare bones of existence.
+
+Thus, we make friends, we connect and we feel. I have often wondered, why school friends last forever. There is a raw innocence to those connections and I think that lasts forever. We learnt it all together. Back in school, when piercing eyes of parents and teachers and a variety of sharp tongues lashed out at us, we faced the brunt together. Our unity was exemplary as partners in crime. We possessed the precious diamond of prankster trust. We knew none would ever spill the beans of our forays into the forbidden.
+
+As a little girl in Grade IV, I knew I could bare my heart and soul to Nirjhar. She would never judge me. I could slap her lovingly and expect sheer laughter in response. We could spend hours on end hanging half-strung on the branches of guava trees in Allahabad, chattering away in competition with birds. She was special. Simple and carefree.
+
+![dr.amrita-blog-post](https://i.imgur.com/mKJQBBr.jpg)
+
+There were others too. Richa, the tall girl in our class, permanently cautious, never seemed to agree with our carefree attitude. Nirjhar and I were often subjected to lunch-break lectures from Richa. I am sure Sir Francis Bacon would have named them, ‘On consciousness’. We needed to be conscious of our surroundings, conscious of what others thought about us, of how we were perceived by the senior students, of how to fold our legs to sit like elegant girls, how to respond and walk gracefully... I am still indebted to Richa’s lessons in umpteen ways. Back then, she was a pain of a friend with perennially judgemental eyes. Nirjhar and I hardly ever shared our little secrets with her. We wondered why she couldn’t be simpler, while she seemed to take pride in her maturity. Richa was the favourite with our mothers. That only made it worse. I think I finally understand you now Richa! The friend I still miss though, is Nirjhar.
+
+Mother to a brat of a teenager now, I am still blessed with the commandments from my own mother. My disheveled hair still remains a case in point. So does every aspect of my lifestyle. This morning the phone rang at 7:00 am. There she was saying morning walks are good, one should rise early and so what if it’s Sunday... 😇😅
+
+
+
