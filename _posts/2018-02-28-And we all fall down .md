@@ -22,6 +22,7 @@ It’s sheer torture to see them making mistakes, we think we can stop them from
 
 All religious scriptures preach, ‘Let go’ in some form or another. But oh the bane of attachment! It’s easier said than done. And yet, as parents our anxiety is not what helps. Our equanimity does. In multiple ways and for a multitude of reasons, we do need to learn to let go. To love and to let them live.
 
-**Don’t we all fall down... and rise again in the ring of roses?**
+Don’t we all fall down... and rise again in the ring of roses?
+
 
 
