@@ -14,9 +14,10 @@ logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas
 baseurl:            '/pindropsilence' # The subpath of your site, e.g. /blog
 url:                'https://amlervishal.github.io' # The base hostname & protocol for your site
-twitter:            https://twitter.com/aspirethemes
-facebook:           https://www.facebook.com/aspirethemes
-instagram:          https://www.instagram.com/aspirethemes
+twitter:            https://mobile.twitter.com/dramrita5
+facebook:           https://www.facebook.com/dramrita5
+instagram:          https://instagram.com/amrita.aneja?utm_medium=copy_link
+linkedin:           http://linkedin.com/in/dr-amrita-vohra-a4625b91
 
 markdown:  kramdown
 permalink: pretty
