@@ -1,0 +1,131 @@
+---
+layout: page
+title: Awards and Accolades
+image: '/images/pages/023.jpg'
+---
+
+Dr. Amrita Vohra 
+Director Education - GEMS Education, India &
+Executive Principal, GEMS International School, Gurgaon
+
+Jury Member
+•	Free Press Journal’s  Mumbai Schools Survey 2022
+•	Official Judge for the 2022 Worldwide UNESCO
+Youth Multimedia Competition
+
+Council Member
+•	Steering committee for International Conference on Transformative Education (ICTE), an initiative of Global Citizenship Foundation
+•	CBSE Progress Card committee
+•	Steering committee for CII School Summit 
+•	CII Indian Women’s Network
+•	National Council of Association of Indian Principals (AIP)
+•	Editorial board of .Ed magazine by Global Citizenship Foundation 
+
+•	State President – WICCI, Haryana SME and MSME Council 
+•	Speaker  –  NCERT NEP 2020 Summit
+Awards and Accolades 
+2019:  
+•	Listed among top 25 leaders Re-inventing Education by Education World
+•	Best Principal’s Award  
+By National Education & Resource Development Organization  
+•	Inspiring Leader of the NCR
+By Outdoor Education Research Rocksport Pvt Ltd 
+For initiatives & invaluable contribution in Reinventing Schools for all round development of students
+2020: 
+•	Woman of Excellence Award by Indian Achiever’s Forum
+•	QSI- GAUGE R.I.S.E Fellowship 
+By O.P Jindal Global University & University of Southampton 
+•	Global Principals Award by AKS Education
+•	Visionary Educator for Emotional Literacy by Zenik Olympiad Foundation 
+•	Listed among 10 most influential women in Education by Insight magazine
+
+2021: 
+•	Excellence in Professional Development at the International Education Summit and Awards 
+•	Outstanding Leadership Award by National Astronomy and Science Olympiad (NASO)
+•	Recognition of Exemplary Contribution to Education by World Education Summit 2021 
+•	India's Top Educator 2021 by STEM Club India
+•	Covid Crusader Award for Education Leaders by Edumate.tv 
+for outstanding effort in ensuring seamless education amidst the Pandemic
+•	Recognition for Unleashing The Potential of Education 4.0 
+at ARDORCOMM Education Leadership Summit and Awards 2021
+•	Game changer in implementation of NEP 2020 in role of a Pedagogical Leader 
+National NEP SUMMIT, NCERT 
+•	Recognition for Exemplary Contribution to the Education Sector- Innovation in Global Collaborative Learning at the 18th World Education Awards 2021
+ 
+2022: 
+•	Outstanding Leadership Award by International Icon Award 2022
+•	Exemplary EduLeader Award by GSLC Next Education
+•	Principal of the Year Award 2022 at the EduLeaders Summit 2022 
+•	Outstanding Contribution to Education Award at the Education Excellence Conclave 2022
+
+
+GEMS International School
+Gurgaon Awards and Accolades 
+August 2019
+•	Techathon 
+Top Tech Savvy School of India
+•	Microsoft Showcase School Badge 
+September 2019
+•	Education World- Grand Jury Ranking 2019-20
+India's No. 1 in Library & Reading Culture
+May 2020
+•	La Revolution MUN
+Best Delegation Award
+June 2020
+•	Excelencia MUN 
+Runner up award for the best delegation - Second Position 
+November 2020
+•	Anveshan Ithihas
+Awarded under top five Meritorious school award 
+•	GSLC Awards 
+Award of Excellence -The Best Skill Development School of the Year
+December 2020
+•	Common Sense School 
+Common Sense School Badge holder 
+•	Fit India (CBSE) -2019 
+Fit India School 
+February 2021
+•	2021 International Education Summit and Award 
+Best School of the Year 
+•	GOGICT Chess Tournament
+Ranked 3 among 4 schools
+•	NASA Mission to Mars 
+Recognition on Mars site 
+
+March 2021
+•	18th World Education Awards 2021
+Winner in the Category: Innovation in Pedagogical Practices  
+May 2021
+•	ECOWAM FLAGSHIP SCHOOL 
+The National level EcoWaM Handprint Flag Award 
+August 2021
+•	Cambridge Assessment Authorized Centre
+Gems Education Society IA680 authorized to administer Cambridge English Exams 
+
+September 2021
+•	Education World- Grand Jury Ranking 2020-21
+India's No.1 in Career Counselling Leaders
+
+October 2021
+•	Eldrok India K-12 Awards 2021 
+GEMS- Excellence in adapting holistic approach to development and growth 
+•	Education World
+School of Eminence among the top 20 schools in India 
+
+December 2021
+•	Education World
+Ranked as No. 1 in GURGAON as well as No. 1 in DELHI NCR, and No 2 in INDIA for ‘STEAM Education Excellence’ by the Education World India School Rankings Survey, 2021.
+
+February 2022
+•	SAAR Education and Renaissance Learning
+Winner of Reading Competition
+
+April - May 2022
+IBARC Asia Summit  2022
+The Best International School of the year (Gurugram)
+
+Quill Club Writers 
+Published ‘The Green Door’ a book of short stories by students of GIS 
+
+TEDxYouth@GEMSInternationalSchool
+-	All TED talks by GIS student speakers are recognised on the TEDx official page  
