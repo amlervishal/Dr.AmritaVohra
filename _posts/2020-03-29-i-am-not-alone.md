@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I am not Alone
+featured: true
 author: Dr. Amrita Vohra
 tags: [covid-19 anxiety]
 image: '/images/posts/Covid-03.jpg'

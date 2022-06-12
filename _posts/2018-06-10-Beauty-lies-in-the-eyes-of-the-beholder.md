@@ -17,3 +17,9 @@ Phew! it’s done, dot on the clock. Time to stand back and marvel at our creati
 Nope. Our teacher did not think so! She was expecting good-looking boards and the models from latest advertisements of beauty products did it for her. A debate ensued, as a bunch of little girls suddenly turned into unstoppable crusaders of the feminist brigade. We certainly had a good library! Mrs. Srivastava perhaps cursed the moment she had chosen this theme and ended the discussion with a curt, ‘-5 to Blue house for questioning my decision. Yellow house has put the heading very clearly in bold letters. They are the winners and get 20 house points.’
 
 Disappointment. Yes, and injustice. It was a regular feature of school days and contributed to many lifelong lessons...
+
+The Score card lies in the hands of the teacher. I learnt it that day. For every assignment thereafter, I asked as many questions as I was allowed. I had to gauge the teacher’s understanding and expectations from the task assigned. I gave them what they wanted. I learnt and read what I wanted and thus loved leisure reading and hated school work.
+
+That’s exactly how the subverted class develops intuitive abilities. I read this theory years later in a book about the psychology of women.
+
+![Dr.Amrita](https://i.imgur.com/FaP5xkl.jpg)
