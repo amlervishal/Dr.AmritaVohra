@@ -6,7 +6,7 @@ tags: [Blog-post]
 image: '/images/posts/019.jpg'
 ---
 
-Bright tints of yellow and the succulent sweet tanginess melting into my mouth... Oh the mangoes! They meant the summer, they meant the summer holidays.
+Bright tints of yellow and the succulent sweet tanginess melting into my mouth... Oh the mangoes! They meant the summer, they meant the summer holidays....
 
 Enjoying mangoes at the banks of the river, jumping, splashing, swinging, singing and playing in the flowing waters until our bodies ached and fingers turned into dry almonds... that’s how summer holiday mornings began at my grandparents’ place. No one seemed to worry about the toxic pollutants, the brisk flow of the stream, the chilling cold water, the endless potential risk factors. The muddy waters were sacred. The river loved us. Wrapping us each day into its motherly protective fold it let us regale in sheer thrill. We loved her back. Flowing from the mountains, it was majestic and pure. It was our very own, non-virtual Avenger!
 
